@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rajmohanmacha0574/RajMohanMacha-DevOps_Day1Project/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/rajmohanmacha0574/RajMohanMacha-DevOps_Day1Project/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
